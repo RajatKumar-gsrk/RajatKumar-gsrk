@@ -8,5 +8,7 @@ AKA RajatKumar-gsrk, This is my Github Profile hope you like it!! ✌️
 [![Uses AI](https://img.shields.io/badge/Uses-AI-red)](https://www.google.com/search?q=artificial+intelligence)
 [![Knows DSA](https://img.shields.io/badge/DSA-Proficient-blue)](/)
 ![Static Badge](https://img.shields.io/badge/knows-C-blue)
+![Static Badge](https://img.shields.io/badge/knows-VB.net-DA8EE7)
+
 
 
