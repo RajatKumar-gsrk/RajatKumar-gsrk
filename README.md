@@ -7,5 +7,5 @@ AKA RajatKumar-gsrk, This is my Github Profile hope you like it!! ✌️
 [![Uses SQL](https://img.shields.io/badge/Uses-SQL-pink)](https://www.w3schools.com/sql/)
 [![Uses AI](https://img.shields.io/badge/Uses-AI-red)](https://www.google.com/search?q=artificial+intelligence)
 [![Knows DSA](https://img.shields.io/badge/DSA-Proficient-blue)](/)
-[![Knows C](https://img.shields.io/badge/-C-informational?style=flat-square)](/)
+[![Knows C](https://img.shields.io/badge/C-green?style=for-the-badge&logo=c&logoColor=white)]()
 
